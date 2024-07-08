@@ -1,0 +1,1 @@
+Net Income of AAPLFutureFS.csv should be around 99803 by machine learning because this is the actual value.
